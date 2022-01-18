@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:rabbit"
+    }
+  },
+  "result": {
+    "item": "minecraft:cooked_rabbit",
+    "count": 64
+  }
+}

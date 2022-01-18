@@ -1,0 +1,105 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Cookedcowcrafting",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cookedcowcrafting"
+    },
+    {
+      "name": "Cookedpigcrafting",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cookedpigcrafting"
+    },
+    {
+      "name": "Cookedrabbitcrafting",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cookedrabbitcrafting"
+    },
+    {
+      "name": "Cookedsheepcrafting",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cookedsheepcrafting"
+    },
+    {
+      "name": "Cookedchickencrafting",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cookedchickencrafting"
+    },
+    {
+      "name": "Goldencarrotcrafting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "goldencarrotcrafting"
+    },
+    {
+      "name": "Bedrockcrafting",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrockcrafting"
+    },
+    {
+      "name": "Dioriteopdrop",
+      "type": "loottable",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dioriteopdrop"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "opdrop",
+    "modName": "OPDrops by ROIGamer",
+    "version": "1.0.0",
+    "author": "ROIGamer",
+    "websiteURL": "https://roigamerthepro1.github.io/website",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "datapack-1.17.x",
+    "credits": "Created by ROIGamer! Enjoy",
+    "modElementsPackage": "net.mcreator.opdrop",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100349312
+}
